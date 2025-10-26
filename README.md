@@ -93,8 +93,8 @@ Ak problém pretrváva, pošlite screenshot a popis problému správcovi projekt
 
 ## Kontakt / podpora
 
-- Projektový tím: admin@school.example
-- Repo (pre vývojárov): https://github.com/Svoboda-Michal/mobility-quest
+- Projektový tím: hello@kontiro.com
+- Repo (pre vývojárov): https://github.com/Svoboda-Michal/pohybko
 
 ---
 
