@@ -97,5 +97,3 @@ Ak problém pretrváva, pošlite screenshot a popis problému správcovi projekt
 - Repo (pre vývojárov): https://github.com/Svoboda-Michal/pohybko
 
 ---
-
-Ak chcete, môžem do tohto README doplniť reálnu URL nasadenia, kontaktné meno správcu alebo krátke screenshoty rozhrania — povedzte, čo chcete zahrnúť a upravím to.
