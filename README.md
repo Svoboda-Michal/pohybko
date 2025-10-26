@@ -73,8 +73,8 @@ Repozitár obsahuje zdrojový kód aplikácie — ak chcete lokalne spustiť a v
 1. Skopírujte repozitár (iba pre vývoj):
 
 ```bash
-git clone [<YOUR_GIT_URL>](https://github.com/Svoboda-Michal/pohybko)
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/Svoboda-Michal/pohybko
+cd pohybko
 npm install
 npm run dev
 ```
